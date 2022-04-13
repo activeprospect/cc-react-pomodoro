@@ -1,4 +1,4 @@
-# VueJS Coding Challenge - Pomodoro
+# ReactJS Coding Challenge - Pomodoro
 
 The Pomodoro Technique is a simple productivity and time management method to
 help the practitioner focus and ignore distractions. The technique uses a timer
